@@ -12,5 +12,4 @@
 - [Pull over Push](/PullPush.sol)
 
 ## Authors
-
 - [@nayanchoudhary31](https://www.github.com/naya
